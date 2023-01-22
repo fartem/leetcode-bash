@@ -1,4 +1,4 @@
-name: Build
+name: sh-checker
 
 on:
   push:
