@@ -8,6 +8,9 @@ Some solved problems from [LeetCode](https://leetcode.com) on Bash.
 
 Profile on LeetCode: [fartem](https://leetcode.com/fartem/).
 
+## Solutions
+
+### Easy
 
 | Name                     | Link to LeetCode                                           | Link to solution                      |
 |--------------------------|------------------------------------------------------------|---------------------------------------|
